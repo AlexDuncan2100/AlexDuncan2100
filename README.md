@@ -26,6 +26,7 @@ Cloud &amp; DevOps engineer with **6+ years of hands-on experience** (on GitHub 
 - 🔐 Securing secrets with **HashiCorp Vault**, observing systems with **ELK, Prometheus &amp; Grafana**
 - 🤖 Taking **ML models and GenAI** from notebook to production on the cloud (MLOps)
 - 🛒 Side project: **[E-commerce Roadmap](https://alexduncan2100.github.io/ecommerce-roadmap/)**, a bilingual (TR/EN) guide to Amazon, Etsy, Shopify, eBay, Zalando and more
+- 🗺️ Side project: **[Cloud Career Roadmaps](https://alexduncan2100.github.io/cloud-career-roadmaps/)**, interactive learning roadmaps for AWS, DevOps, Kubernetes, Azure, DevSecOps, FinOps and Cloud Security, plus AWS and Kubernetes certifications
 
 ---
 
